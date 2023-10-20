@@ -1,3 +1,17 @@
+app feito na aula para conhecer variáveis no react native
+<br>
+<div align="center">
+  <h3>Feio demais, mas o que importa é que faz a conta</h3>
+  <img src="ImagemApp/1.png"> <img src="ImagemApp/2.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Matemática</h3>
+  <img src="ImagemApp/2.png">
+</div>
+<br><br><br><br>
+  <h3>Agora fiquem com o texto padrão do readme do snack</h3>
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
