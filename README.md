@@ -7,7 +7,7 @@ app feito na aula para conhecer variáveis no react native
 <br><br>
 <div align="center">
   <h3>Matemática</h3>
-  <img src="ImagemApp/2.png">
+  <img src="ImagemApp/3.png">
 </div>
 <br><br><br><br>
   <h3>Agora fiquem com o texto padrão do readme do snack</h3>
