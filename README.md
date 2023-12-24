@@ -10,6 +10,8 @@ app feito na aula para conhecer variáveis no react native
   <img src="ImagemApp/3.png">
 </div>
 <br><br><br><br>
+link do snack: https://snack.expo.dev/@romulojr/appconsumogasolina
+<br><br>
   <h3>Agora fiquem com o texto padrão do readme do snack</h3>
 
 # Sample Snack app
